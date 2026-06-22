@@ -1,33 +1,22 @@
-# Dashboard Financeiro em Excel
+Dashboard Financeiro em Excel
+Sobre o projeto
 
-## Objetivo
-Este projeto foi desenvolvido para consolidar e analisar despesas de duas unidades (Matriz e Filial), utilizando recursos do Microsoft Excel como Tabelas Estruturadas, Tabelas Dinâmicas, Gráficos Dinâmicos, Segmentação de Dados e Linha do Tempo, transformando dados operacionais em indicadores para apoio à tomada de decisão.
+Desenvolvi este dashboard utilizando Microsoft Excel com o objetivo de transformar dados financeiros em indicadores visuais para apoiar a tomada de decisão.
 
-## Funcionalidades
+Recursos utilizados
+Microsoft Excel
+Tabelas Estruturadas
+Tabelas Dinâmicas
+Gráficos Dinâmicos
+Segmentação de Dados
+Linha do Tempo
+Indicadores
+Total Geral
+Total de Lançamentos
+Maior Despesa
+Gastos por Pagador
+Gastos por Fornecedor
+Comparativo Matriz x Filial
+Objetivo
 
-- Dashboard interativo
-- Tabelas Dinâmicas
-- Gráficos Dinâmicos
-- Segmentação de Dados
-- Linha do Tempo
-- Consolidação de Matriz e Filial
-
-## Ferramentas Utilizadas
-
-- Microsoft Excel
-- Tabelas Estruturadas
-- Tabelas Dinâmicas
-- Dashboard Design
-
-## Dashboard
-
-![Dashboard](dashboard.png)
-
-## Principais Indicadores
-
-- Total Geral de Despesas
-- Total de Lançamentos
-- Maior Despesa
-- Comparativo Matriz x Filial
-- Gastos por Pagador
-- Gastos por Fornecedor
+Organizar e analisar despesas de forma simples, rápida e visual.
