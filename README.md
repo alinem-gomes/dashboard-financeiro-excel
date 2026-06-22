@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Projeto desenvolvido para consolidar e analisar despesas financeiras utilizando Excel.
+Este projeto foi desenvolvido para consolidar e analisar despesas de duas unidades (Matriz e Filial), utilizando recursos do Microsoft Excel como Tabelas Estruturadas, Tabelas Dinâmicas, Gráficos Dinâmicos, Segmentação de Dados e Linha do Tempo, transformando dados operacionais em indicadores para apoio à tomada de decisão.
 
 ## Funcionalidades
 
