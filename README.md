@@ -31,9 +31,7 @@ Projeto desenvolvido para consolidar e analisar despesas financeiras utilizando 
 - Total de Lançamentos
 - Maior Despesa
 - Comparativo Matriz x Filial
-- Gastos por Pagador
-- Gastos por Fornecedor
-
+- Gastos por Pagador e Fornecedor
 
 ## Habilidades Demonstradas
 
