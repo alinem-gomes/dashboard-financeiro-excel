@@ -1,6 +1,5 @@
 # Dashboard Financeiro em Excel
 
-![Dashboard](dashboard.png)
 
 ## Objetivo
 
