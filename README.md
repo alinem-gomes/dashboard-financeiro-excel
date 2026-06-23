@@ -1,25 +1,34 @@
-Dashboard Financeiro em Excel
-Sobre o projeto
+# Dashboard Financeiro em Excel
 
-Desenvolvi este dashboard utilizando Microsoft Excel com o objetivo de transformar dados financeiros em indicadores visuais para apoiar a tomada de decisão.
+## Objetivo
 
+Projeto desenvolvido para consolidar e analisar despesas financeiras utilizando Excel.
 
-Recursos utilizados
-Microsoft Excel
+## Funcionalidades
 
-Tabelas Estruturadas
-Tabelas Dinâmicas
-Gráficos Dinâmicos
-Segmentação de Dados
-Linha do Tempo
-Indicadores
-Total Geral
-Total de Lançamentos
-Maior Despesa
-Gastos por Pagador
-Gastos por Fornecedor
-Comparativo Matriz x Filial
+- Dashboard interativo
+- Tabelas Dinâmicas
+- Gráficos Dinâmicos
+- Segmentação de Dados
+- Linha do Tempo
+- Consolidação de Matriz e Filial
 
+## Ferramentas Utilizadas
 
-Objetivo
-Organizar e analisar despesas de forma simples, rápida e visual.
+- Microsoft Excel
+- Tabelas Estruturadas
+- Tabelas Dinâmicas
+- Dashboard Design
+
+## Dashboard
+
+![Dashboard](dashboard.png)
+
+## Principais Indicadores
+
+- Total Geral de Despesas
+- Total de Lançamentos
+- Maior Despesa
+- Comparativo Matriz x Filial
+- Gastos por Pagador
+- Gastos por Fornecedor
