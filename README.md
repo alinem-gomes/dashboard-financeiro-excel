@@ -33,3 +33,15 @@ Projeto desenvolvido para consolidar e analisar despesas financeiras utilizando 
 - Comparativo Matriz x Filial
 - Gastos por Pagador
 - Gastos por Fornecedor
+
+
+## Habilidades Demonstradas
+
+- Excel
+- Tabelas Estruturadas
+- Tabelas Dinâmicas
+- Gráficos Dinâmicos
+- Segmentação de Dados
+- Linha do Tempo
+- Análise Financeira
+- Construção de Dashboards
