@@ -1,5 +1,7 @@
 # Dashboard Financeiro em Excel
 
+![Dashboard](dashboard.png)
+
 ## Objetivo
 
 Projeto desenvolvido para consolidar e analisar despesas financeiras utilizando Excel.
